@@ -10,7 +10,7 @@
     "start": "npm run dev"
   },
   "keywords": [],
-  "author": "keerti",
+  "author": "parinitha",
   "license": "ISC",
   "dependencies": {
     "react": "^17.0.2",
