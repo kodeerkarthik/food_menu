@@ -1,10 +1,9 @@
 import React  from 'react';
-import RouterComponent from './components/Router-component/RouterComponent';
 
 export default function App() {
   return (
     <div>
-      <RouterComponent/>
+      <h1>react application</h1>
     </div>
   );
 }
