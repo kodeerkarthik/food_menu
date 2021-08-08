@@ -1,6 +1,32 @@
 body {
-  background-color: whitesmoke;
+  font-family: "Open Sans", sans-serif;
+  color: #444444;
 }
-h1 {
-  color: black;
+
+a {
+  color: #5846f9;
+}
+
+a:hover {
+  color: #8577fb;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+/* antd over-ride */
+
+.ant-switch-checked {
+  background-color: #4e48f5;
+}
+.ant-collapse-content-box{
+  background: #ebecec !important;
+}
+.ant-collapse > .ant-collapse-item > .ant-collapse-header {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  color: #ffc107;
+  background: #384250;
 }

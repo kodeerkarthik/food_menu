@@ -1,0 +1,15 @@
+#header {
+    background: #6938e7;
+    padding: 20px;
+}
+.back-btn {
+    background: white;
+    padding: 5px 10px;
+    color: #6938e7;
+    font-size: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+input:checked ~ .checkmark {
+    background-color: red;
+  }

@@ -1,0 +1,10 @@
+#footer {
+    color: #fff;
+    font-size: 14px;
+    background: linear-gradient(45deg, rgba(86, 58, 250) 0%, rgba(116, 15, 214) 100%);
+    background-size: cover;
+    padding: 20px 10px;
+  }
+.address {
+    text-align: right;
+}
